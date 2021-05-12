@@ -14,7 +14,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "swiper": "^5.3.8",
+    "swiper": "^6.5.1",
     "typescript": "~3.7.2"
   },
   "scripts": {
